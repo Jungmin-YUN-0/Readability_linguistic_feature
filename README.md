@@ -2,7 +2,6 @@
 
 **Hierachical Language Information-BERT(HLI-BERT) + Lingustic Feature**
 
-
 ## Usage
  
 ###  [extract_linguistic_feature.ipynb]   
