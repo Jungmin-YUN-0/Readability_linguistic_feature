@@ -5,7 +5,7 @@
 ## Usage
  
 ###  [extract_linguistic_feature.ipynb]   
-linguistic feature 추출 (linfeat)
+linguistic feature 추출 (lingfeat)
 
 
 
