@@ -4,11 +4,12 @@
 
 
 
-**#1**  
+ 
 ###  extract_linguistic_feature.ipynb  
 linguistic feature 추출 (linfeat)
 
-**#2**  
+
+
 ###  main.py  
 main.py is for model training and inference.
 
